@@ -9,4 +9,4 @@ It's a simple Command Menu Block
 
 ## Link
 
-Here's a [link]() for Demo website
+Here's a [link](https://command-menu-block.vercel.app/) for Demo website
